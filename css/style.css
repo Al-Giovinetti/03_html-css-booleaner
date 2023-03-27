@@ -1,6 +1,7 @@
 *{
     margin: 0;
-    box-sizing: border-box;}
+    box-sizing: border-box;
+    font-size:20px;}
 
 header{
     height: 150px;
@@ -38,6 +39,10 @@ h2>span{
 
 aside{
     font-size: 15px;}
+
+p{margin:20px 0;}
+
+.bg_yellow{background-color: yellow;}
 
 
 
