@@ -20,6 +20,9 @@ main{
     margin-left: 15px;
     margin-right: 15px;}
 
+section{
+    margin-bottom: 25px;}
+
 h1{
     font-size: 50px;
     margin-top: 10px;
@@ -33,14 +36,10 @@ h2>span{
     color:rgb(68,170,255);}
 
 #tim_photo img{
-    height: 430px;
-    margin-top: 15px;
-    margin-bottom: 5px;}
+    height: 430px;}
 
 aside{
     font-size: 15px;}
-
-p{margin:20px 0;}
 
 .bg_yellow{background-color: yellow;}
 
