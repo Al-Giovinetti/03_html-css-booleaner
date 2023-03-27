@@ -8,10 +8,37 @@ header{
     background-color: rgb(68,170,255);
     background-image: url("../img/pattern.png");
     background-position:left 20% top 0;
-    position: relative;
-    margin: 0;}
+    position: relative;}
 
 #logo{
     height:50%;
     position: absolute;
     left: 5px; bottom:10%;}
+
+main{
+    margin-left: 15px;
+    margin-right: 15px;}
+
+h1{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;}
+
+h2{
+    font-size: 25px;
+    color: grey;}
+
+h2>span{
+    color:rgb(68,170,255);}
+
+#tim_photo img{
+    height: 430px;
+    margin-top: 15px;
+    margin-bottom: 5px;}
+
+aside{
+    font-size: 15px;}
+
+
+
+
